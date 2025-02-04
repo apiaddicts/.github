@@ -36,10 +36,9 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | [sonar-openapi-core](https://github.com/apiaddicts/sonar-openapi)  | Sonar Code analyzer for OpenAPI specifications | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
 | [sonar-openapi-rules](https://github.com/apiaddicts/sonaropenapi-rules)  | more 100 rules for Sonar Code analyzer for OpenAPI specifications | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
 | [o2e](https://github.com/apiaddicts/openapi-example-aggregator)  | Example generator using schema examples | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
-| [spectral](https://github.com/apiaddicts/apiaddicts-style-guide-spectral)  | Spectral guide with apiaddicts recommended rules | ![yaml](https://img.shields.io/badge/dynamic/yaml?style=flat&logo=yaml&logoColor=white) |
-| [sonar-asyncapi](https://github.com/apiaddicts/sonar-openapi)  | Code analyzer for OpenAPI specifications | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
-| [sonar-asyncapi-core](https://github.com/apiaddicts/sonar-asyncapi)  | Code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
-| [sonar-asyncapi-rules](https://github.com/apiaddicts/sonarasyncapi-rules)  | Asyncapi rules for code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
+| [spectral](https://github.com/apiaddicts/apiaddicts-style-guide-spectral)  | Spectral guide with apiaddicts recommended rules | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
+| [sonar-asyncapi-core](https://github.com/apiaddicts/sonar-asyncapi)  | Sonar Code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
+| [sonar-asyncapi-rules](https://github.com/apiaddicts/sonarasyncapi-rules)  | Sonar Asyncapi rules for code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
 
 
 
