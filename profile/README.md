@@ -40,7 +40,7 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | [sonar-asyncapi-core](https://github.com/apiaddicts/sonar-asyncapi)  | Sonar Code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
 | [sonar-asyncapi-rules](https://github.com/apiaddicts/sonarasyncapi-rules)  | Sonar Asyncapi rules for code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
 | [apiportal-front](https://github.com/apiaddicts/apiportal-front)  | Front for api portal in react  |![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
-| [apiportal-back](https://github.com/apiaddicts/apiportal-back)  | Back for api portal in strapi.io  | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
+| [apiportal-cms](https://github.com/apiaddicts/apiportal-cms)  | CMS for api portal (strapi.io)  | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 
 
 
