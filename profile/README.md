@@ -43,8 +43,32 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | [apiportal-cms](https://github.com/apiaddicts/apiportal-cms)  | CMS for api portal (strapi.io)  | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 
 
+## Roadmap
+The next releases are:
 
+### Feb 2026
+- Spectral guide with all best practices rules for openapi
+- Spectral guide with all best practices rules for asyncapi
 
+### Apr 2026
+- DevPortal; connector 
+- Kong
+- sonarMCPrules
+- openapi2postman: compatibility for openapi 3.1 
+- Validator avro schemas for sonar-async-api
+
+### Jun 2026
+- Lanch APIMarket
+- DevPorta:l connector  AWS
+- openapi2insomnia
+
+### Sept 2026
+- MCP Devportal
+- visual mapper for apigen.springboot, apigen.net y apigen.python
+
+### Dec 2026
+- DevPortal connector TyK
+- openapi2asyncapi
 
 
 <p align="center">
