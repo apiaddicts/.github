@@ -49,6 +49,7 @@ The last release are:
   | 🎁 APIAI-Tool  | 📚 Description | 🤖 Version |
 |---|---|---|
 | apimcp-market  | Add docker-compose | [v1.0.2](https://github.com/apiaddicts/apiportal-front/releases) |
+| openapi2postman  | version 3.1 compatibility | [v2.3.0](https://github.com/apiaddicts/openapi2postman/releases) |
 
 ## Roadmap
 The next releases are:
