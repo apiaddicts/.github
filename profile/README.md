@@ -41,15 +41,23 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | [sonar-asyncapi-rules](https://github.com/apiaddicts/sonarasyncapi-rules)  | Sonar Asyncapi rules for code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
 | [api-mcp-market-front](https://github.com/apiaddicts/apiportal-front)  | API & MCP & Data Services (Gaiax) Market front |![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 | [api-mcp-market-cms](https://github.com/apiaddicts/apiportal-cms)  | CMS for apimcp-market (strapi.io)  | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
-
+| [connector-assets-config](https://github.com/apiaddicts/connector-assets-config)  | Form to config assets for EDC connector | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
+| [compliance-onboarding-data-space](https://github.com/apiaddicts/compliance-onboarding-data-space)  | Widget for obtaining Gaia-X compliance certification | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
+| [apigen.python](https://github.com/apiaddicts/apigen.python)  | API to generate an archetype of the python fastAPI framework using the openapi file | ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) |
+| [apigen-python-core](https://github.com/apiaddicts/apigen-python-core)  | Package core to generate proyect of fastapi using the openapi file | ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white)|
+| [visual-mapper](https://github.com/apiaddicts/visual-mapper)  | Form for assigning an OpenAPI file to a database schema | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 
 ## Last releases
 The last release are:
 
   | 🎁 APIAI-Tool  | 📚 Description | 🤖 Version |
 |---|---|---|
-| apimcp-market  | Add docker-compose | [v1.0.2](https://github.com/apiaddicts/apiportal-front/releases) |
-| openapi2postman  | version 3.1 compatibility | [v2.3.0](https://github.com/apiaddicts/openapi2postman/releases) |
+| visual-mapper  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/visual-mapper?style=for-the-badge&color=orange) |
+| apigen-python-core  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-python-core?style=for-the-badge&color=orange) |
+| apigen.python  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen.python?style=for-the-badge&color=orange) |
+| compliance-onboarding-data-space  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/compliance-onboarding-data-space?style=for-the-badge&color=orange) |
+| connector-assets-config  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/connector-assets-config?style=for-the-badge&color=orange) |
+| sonaropenapi-rules | Update issues and config sonar cloud | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) |
 
 ## Roadmap
 The next releases are:
