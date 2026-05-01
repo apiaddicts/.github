@@ -25,28 +25,44 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/apiaddicts)
 
-# 🛠️ Tools
+# 🛠️ Code Generators
 
    | 🎁 Tool  | 📚 Description | 🤖 Technology |
 |---|---|---|
 | [apigen.springboot](https://github.com/apiaddicts/apigen.springboot/)  | Generate an archetype of the springboot framework using the openapi file | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) |
 | [apigen.net](https://github.com/apiaddicts/apigen.net/)  | Generate an archetype of the asp.net framework using the openapi file | ![Csharp](https://img.shields.io/badge/csharp-239120.svg?style=flat&logo=csharp&logoColor=white) ![DotNet](https://img.shields.io/badge/asp.net-512BD4.svg?style=flat&logo=.net&logoColor=white)  |
-| [openapi2postman](https://github.com/apiaddicts/openapi2postman)  | Creates automatic tests from Openapi 3.0 / 2.0 using postman format | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
-| [openapi2soapui](https://github.com/apiaddicts/openapi2soapui)  | Generate a SoapUI project from an OpenAPI Specification | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
-| [sonar-openapi-core](https://github.com/apiaddicts/sonar-openapi)  | Sonar Code analyzer for OpenAPI specifications | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
-| [sonar-openapi-rules](https://github.com/apiaddicts/sonaropenapi-rules)  | more 100 rules for Sonar Code analyzer for OpenAPI specifications | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
-| [o2e](https://github.com/apiaddicts/openapi-example-aggregator)  | Example generator using schema examples | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
-| [spectral](https://github.com/apiaddicts/apiaddicts-style-guide-spectral)  | Spectral guide with apiaddicts recommended rules | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
-| [sonar-asyncapi-core](https://github.com/apiaddicts/sonar-asyncapi)  | Sonar Code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
-| [sonar-asyncapi-rules](https://github.com/apiaddicts/sonarasyncapi-rules)  | Sonar Asyncapi rules for code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
-| [api-mcp-market-front](https://github.com/apiaddicts/apiportal-front)  | API & MCP & Data Services (Gaiax) Market front |![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
-| [api-mcp-market-cms](https://github.com/apiaddicts/apiportal-cms)  | CMS for apimcp-market (strapi.io)  | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
-| [connector-assets-config](https://github.com/apiaddicts/connector-assets-config)  | Form to config assets for EDC connector | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
-| [compliance-onboarding-data-space](https://github.com/apiaddicts/compliance-onboarding-data-space)  | Widget for obtaining Gaia-X compliance certification | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 | [apigen.python](https://github.com/apiaddicts/apigen.python)  | API to generate an archetype of the python fastAPI framework using the openapi file | ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) |
 | [apigen-python-core](https://github.com/apiaddicts/apigen-python-core)  | Package core to generate proyect of fastapi using the openapi file | ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white)|
 | [visual-mapper](https://github.com/apiaddicts/visual-mapper)  | Form for assigning an OpenAPI file to a database schema | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 | [apigen-springboot-cli](https://github.com/apiaddicts/apigen-springboot-cli)  | CLI for using the apigen tool in Spring Boot projects | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
+
+
+# 🛠️ Socoring and Quality
+
+   | 🎁 Tool  | 📚 Description | 🤖 Technology |
+|---|---|---|
+| [sonar-openapi-core](https://github.com/apiaddicts/sonar-openapi)  | Sonar Code analyzer for OpenAPI specifications | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
+| [sonar-openapi-rules](https://github.com/apiaddicts/sonaropenapi-rules)  | more 100 rules for Sonar Code analyzer for OpenAPI specifications | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
+| [spectral](https://github.com/apiaddicts/apiaddicts-style-guide-spectral)  | Spectral guide with apiaddicts recommended rules | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
+| [sonar-asyncapi-core](https://github.com/apiaddicts/sonar-asyncapi)  | Sonar Code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
+| [sonar-asyncapi-rules](https://github.com/apiaddicts/sonarasyncapi-rules)  | Sonar Asyncapi rules for code analyzer for Asyncapi specifications  | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
+
+
+# 🛠️ Tests generators
+   | 🎁 Tool  | 📚 Description | 🤖 Technology |
+|---|---|---|
+| [openapi2postman](https://github.com/apiaddicts/openapi2postman)  | Creates automatic tests from Openapi 3.0 / 2.0 using postman format | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
+| [openapi2soapui](https://github.com/apiaddicts/openapi2soapui)  | Generate a SoapUI project from an OpenAPI Specification | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
+
+# 🛠️ Gaia-x
+| [connector-assets-config](https://github.com/apiaddicts/connector-assets-config)  | Form to config assets for EDC connector | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
+| [compliance-onboarding-data-space](https://github.com/apiaddicts/compliance-onboarding-data-space)  | Widget for obtaining Gaia-X compliance certification | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
+
+# 🛠️ Documentation
+   | 🎁 Tool  | 📚 Description | 🤖 Technology |
+| [api-mcp-market-front](https://github.com/apiaddicts/apiportal-front)  | API & MCP & Data Services (Gaiax) Market front |![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
+| [api-mcp-market-cms](https://github.com/apiaddicts/apiportal-cms)  | CMS for apimcp-market (strapi.io)  | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
+
 
 ## Last releases
 The last release are:
@@ -64,18 +80,19 @@ The last release are:
 ## Roadmap
 The next releases are:
 
-### Feb 2026
-- Spectral guide with all best practices rules for openapi
-- Spectral guide with all best practices rules for asyncapi
-
 ### Apr 2026
-- DevPortal; connector 
-- Kong
-- sonarMCPrules
-- openapi2postman: compatibility for openapi 3.1 
+
+- openapi2postman: compatibility for openapi 3.1, 3.2
+- openapi2soapui: compatibility for openapi 3.0, 3.1, 3.2
+- asyncapi-rules: compatibility for asyncapi 3.0
+- spectral-asyncapi-rules: new rulset compatibility with sonar-asyncapi-rules
+- openapi2postman:compatibility for openapi 3.2
 - Validator avro schemas for sonar-async-api
 
 ### Jun 2026
+- DevPortal; connector 
+- Kong
+- sonarMCPrules
 - Lanch APIMarket
 - DevPorta:l connector  AWS
 - openapi2insomnia
