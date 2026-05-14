@@ -54,7 +54,7 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 |---|---|---|
 | [openapi2postman](https://github.com/apiaddicts/openapi2postman)  | Creates automatic tests from Openapi 3.0 / 2.0 using postman format | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 | [openapi2soapui](https://github.com/apiaddicts/openapi2soapui)  | Generate a SoapUI project from an OpenAPI Specification | ![Java](https://img.shields.io/badge/java-437291.svg?style=flat&logo=openjdk&logoColor=white) |
-| [openapi2insomnia](https://github.com/apiaddicts/openapi2insomnia)  | Generate a SoapUI project from an OpenAPI Specification | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| [openapi2insomnia](https://github.com/apiaddicts/openapi2insomnia)  | Generate a Insominia project from an OpenAPI Specification | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 
 # 🛠️ Gaia-x
 | [connector-assets-config](https://github.com/apiaddicts/connector-assets-config)  | Form to config assets for EDC connector | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
