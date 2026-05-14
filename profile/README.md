@@ -37,7 +37,7 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | [apigen-springboot-cli](https://github.com/apiaddicts/apigen-springboot-cli)  | CLI for using the apigen tool in Spring Boot projects | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
 
 
-# 🛠️ Socoring and Quality
+# 🛠️ Scoring and Quality
 
    | 🎁 Tool  | 📚 Description | 🤖 Technology |
 |---|---|---|
