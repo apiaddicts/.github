@@ -57,11 +57,14 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | [openapi2insomnia](https://github.com/apiaddicts/openapi2insomnia)  | Generate a Insominia project from an OpenAPI Specification | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
 
 # 🛠️ Gaia-x
+   | 🎁 Tool  | 📚 Description | 🤖 Technology |
+|---|---|---|
 | [connector-assets-config](https://github.com/apiaddicts/connector-assets-config)  | Form to config assets for EDC connector | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 | [compliance-onboarding-data-space](https://github.com/apiaddicts/compliance-onboarding-data-space)  | Widget for obtaining Gaia-X compliance certification | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 
 # 🛠️ Documentation
    | 🎁 Tool  | 📚 Description | 🤖 Technology |
+   |---|---|---|
 | [api-mcp-market-front](https://github.com/apiaddicts/apiportal-front)  | API & MCP & Data Services (Gaiax) Market front |![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 | [api-mcp-market-cms](https://github.com/apiaddicts/apiportal-cms)  | CMS for apimcp-market (strapi.io)  | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 
