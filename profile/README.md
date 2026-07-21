@@ -82,6 +82,7 @@ The last release are:
 | sonaropenapi-rules | Update issues and config sonar cloud | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) |
 | apigen-springboot-cli | New Proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-springboot-cli?style=for-the-badge&color=orange) |
 | openapi2insomnia | New Proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2insomnia?style=for-the-badge&color=orange) |
+| openapi2insomnia | New Proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman?style=for-the-badge&color=orange) |
 
 ## Roadmap
 The next releases are:
