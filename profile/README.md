@@ -3,7 +3,7 @@
 	<img align="center" width="512" height="238" alt="image" src="https://github.com/user-attachments/assets/0ef9871a-a167-465f-83e9-dff23cc938e7" />
 </p>
 
-## 🖖 Hi, APIAddict! We're apIAddicts, a non-profit foundation aimed at providing courses, resources and events focused on APIs. Contribute to API-Evangelization!
+## 🖖 Hi, APIAddict! We're apIAddicts, a non-profit foundation aimed at providing courses, resources and events focused on APIs, MCPS and Agents.  Contribute to API/IA Evangelization!
 
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/APIAddicts) 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZdbGqMBYy8)
