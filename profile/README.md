@@ -1,6 +1,7 @@
 
-<img align="center" width="512" height="238" alt="image" src="https://github.com/user-attachments/assets/0ef9871a-a167-465f-83e9-dff23cc938e7" />
-
+<p align="center">
+	<img align="center" width="512" height="238" alt="image" src="https://github.com/user-attachments/assets/0ef9871a-a167-465f-83e9-dff23cc938e7" />
+</p>
 
 ## 🖖 Hi, APIAddict! We're APIAddicts, a non-profit foundation aimed at providing courses, resources and events focused on APIs. Contribute to API-Evangelization!
 
