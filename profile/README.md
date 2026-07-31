@@ -3,7 +3,7 @@
 	<img align="center" width="512" height="238" alt="image" src="https://github.com/user-attachments/assets/0ef9871a-a167-465f-83e9-dff23cc938e7" />
 </p>
 
-## 🖖 Hi, APIAddict! We're APIAddicts, a non-profit foundation aimed at providing courses, resources and events focused on APIs. Contribute to API-Evangelization!
+## 🖖 Hi, APIAddict! We're apIAddicts, a non-profit foundation aimed at providing courses, resources and events focused on APIs. Contribute to API-Evangelization!
 
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/APIAddicts) 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZdbGqMBYy8)
@@ -86,31 +86,17 @@ The last release are:
 ## Roadmap
 The next releases are:
 
-### Apr 2026
-
-- openapi2postman: compatibility for openapi 3.1, 3.2
-- openapi2soapui: compatibility for openapi 3.0, 3.1, 3.2
-- asyncapi-rules: compatibility for asyncapi 3.0
-- spectral-asyncapi-rules: new rulset compatibility with sonar-asyncapi-rules
-- openapi2postman:compatibility for openapi 3.2
-- Validator avro schemas for sonar-async-api
-
-### Jun 2026
-- DevPortal; connector 
-- Kong
-- sonarMCPrules
-- Lanch APIMarket
-- DevPorta:l connector  AWS
-- openapi2insomnia
-
 ### Sept 2026
 - MCP Devportal
 - visual mapper for apigen.springboot, apigen.net y apigen.python
+- Lanch APIMarket
+- sonarMCPrules
+- openapi2insomnia
 
 ### Dec 2026
 - DevPortal connector TyK
 - openapi2asyncapi
-
+- Add agents, skills and microservices to developer portal
 
 <p align="center">
 	<a href="https://apiaddicts.org/">
