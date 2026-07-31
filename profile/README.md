@@ -1,5 +1,5 @@
 
-[https://www.apiaddicts.org](https://www.apiaddicts.org/wp-content/uploads/2026/07/logo.png)
+[https://www.apiaddicts.org/wp-content/uploads/2026/07/logo.png](https://www.apiaddicts.org)
 
 ## 🖖 Hi, APIAddict! We're APIAddicts, a non-profit foundation aimed at providing courses, resources and events focused on APIs. Contribute to API-Evangelization!
 
