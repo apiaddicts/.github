@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://apiaddicts.org/">
-	  <img src="[https://www.apiaddicts.org/wp-content/uploads/2026/07/logo.png](https://www.apiaddicts.org)" width = '700'>
+	  [https://www.apiaddicts.org/wp-content/uploads/2026/07/logo.png](https://www.apiaddicts.org)
 	</a>
 </p>
 
