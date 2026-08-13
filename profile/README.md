@@ -67,21 +67,17 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | [api-mcp-market-front](https://github.com/apiaddicts/apiportal-front)  | API & MCP & Data Services (Gaiax) Market front |![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 | [api-mcp-market-cms](https://github.com/apiaddicts/apiportal-cms)  | CMS for apimcp-market (strapi.io)  | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 
+  # 🛠️ Skills
+| 🎁 Tool  | 📚 Description | 🤖 Technology |
+|---|---|---|
+  | [apigen-skills](https://github.com/apiaddicts/apigen-skills)  | Skills to generate projects from [apigen.net](https://github.com/apiaddicts/apigen.net) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
 
 ## Last releases
 The last release are:
 
   | 🎁 APIAI-Tool  | 📚 Description | 🤖 Version |
 |---|---|---|
-| visual-mapper  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/visual-mapper?style=for-the-badge&color=orange) |
-| apigen-python-core  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-python-core?style=for-the-badge&color=orange) |
-| apigen.python  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen.python?style=for-the-badge&color=orange) |
-| compliance-onboarding-data-space  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/compliance-onboarding-data-space?style=for-the-badge&color=orange) |
-| connector-assets-config  | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/connector-assets-config?style=for-the-badge&color=orange) |
-| sonaropenapi-rules | Update issues and config sonar cloud | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) |
-| apigen-springboot-cli | New Proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-springboot-cli?style=for-the-badge&color=orange) |
-| openapi2insomnia | New Proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2insomnia?style=for-the-badge&color=orange) |
-| openapi2postman | Last Release | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman?style=for-the-badge&color=orange) |
+| apigen-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-skills?style=for-the-badge&color=orange) |
 
 ## Roadmap
 The next releases are:
