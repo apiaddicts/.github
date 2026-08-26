@@ -71,6 +71,7 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | 🎁 Tool  | 📚 Description | 🤖 Technology |
 |---|---|---|
   | [apigen-skills](https://github.com/apiaddicts/apigen-skills)  | Skills to generate projects from [apigen.net](https://github.com/apiaddicts/apigen.net) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
+  | [openapi2soapui-skills](https://github.com/apiaddicts/openapi2soapui-skills)  | Skills to generate contract tests from [openapi2soapui](https://github.com/apiaddicts/openapi2soapui) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
 
 ## Last releases
 The last release are:
@@ -78,6 +79,9 @@ The last release are:
   | 🎁 APIAI-Tool  | 📚 Description | 🤖 Version |
 |---|---|---|
 | apigen-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-skills?style=for-the-badge&color=orange) |
+| openapi2soapui-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui-skills?style=for-the-badge&color=orange) |
+| sonaropenapi-rules | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) |
+| apiaddicts-style-guide-spectral | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apiaddicts-style-guide-spectral?style=for-the-badge&color=orange) |
 
 ## Roadmap
 The next releases are:
