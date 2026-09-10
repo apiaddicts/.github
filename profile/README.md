@@ -80,8 +80,9 @@ The last release are:
 |---|---|---|
 | apigen-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-skills?style=for-the-badge&color=orange) |
 | openapi2soapui-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui-skills?style=for-the-badge&color=orange) |
-| sonaropenapi-rules | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) |
-| apiaddicts-style-guide-spectral | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apiaddicts-style-guide-spectral?style=for-the-badge&color=orange) |
+| sonaropenapi-rules | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) |
+| apiaddicts-style-guide-spectral | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apiaddicts-style-guide-spectral?style=for-the-badge&color=orange) |
+| openapi2postman | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman?style=for-the-badge&color=orange) |
 
 ## Roadmap
 The next releases are:
