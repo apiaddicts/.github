@@ -76,13 +76,13 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 ## Last releases
 The last release are:
 
-  | 🎁 APIAI-Tool  | 📚 Description | 🤖 Version |
-|---|---|---|
-| apigen-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-skills?style=for-the-badge&color=orange) |
-| openapi2soapui-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui-skills?style=for-the-badge&color=orange) |
-| sonaropenapi-rules | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) |
-| apiaddicts-style-guide-spectral | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apiaddicts-style-guide-spectral?style=for-the-badge&color=orange) |
-| openapi2postman | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman?style=for-the-badge&color=orange) |
+  | 🎁 APIAI-Tool  | 📚 Description | 🤖 Version | 📅 Released |
+|---|---|---|---|
+| apigen-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-skills?style=for-the-badge&color=orange) | 13-08-2026 |
+| openapi2soapui-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui-skills?style=for-the-badge&color=orange) | 26-08-2026 |
+| sonaropenapi-rules | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) | 10-09-2026 |
+| apiaddicts-style-guide-spectral | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apiaddicts-style-guide-spectral?style=for-the-badge&color=orange) | 10-09-2026 |
+| openapi2postman | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman?style=for-the-badge&color=orange) | 10-09-2026 |
 
 ## Roadmap
 The next releases are:
