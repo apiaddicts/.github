@@ -83,6 +83,7 @@ The last release are:
 | sonaropenapi-rules | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) | 10-09-2026 |
 | apiaddicts-style-guide-spectral | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apiaddicts-style-guide-spectral?style=for-the-badge&color=orange) | 10-09-2026 |
 | openapi2postman | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman?style=for-the-badge&color=orange) | 10-09-2026 |
+| openapi2soapui | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui?style=for-the-badge&color=orange) | 16-09-2026 |
 
 ## Roadmap
 The next releases are:
