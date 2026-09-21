@@ -84,6 +84,9 @@ The last release are:
 | apiaddicts-style-guide-spectral | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apiaddicts-style-guide-spectral?style=for-the-badge&color=orange) | 10-09-2026 |
 | openapi2postman | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman?style=for-the-badge&color=orange) | 10-09-2026 |
 | openapi2soapui | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui?style=for-the-badge&color=orange) | 16-09-2026 |
+| SonarAsyncapiRules | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonarasyncapi-rules?style=for-the-badge&color=orange) | 21-09-2026 |
+| SpectralAsyncapiRules | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/spectral-rules-asyncapi?style=for-the-badge&color=orange) | 21-09-2026 |
+| AsyncapiCore | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonar-asyncapi?style=for-the-badge&color=orange) | 21-09-2026 |
 
 ## Roadmap
 The next releases are:
