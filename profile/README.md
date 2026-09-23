@@ -78,15 +78,16 @@ The last release are:
 
   | 🎁 APIAI-Tool  | 📚 Description | 🤖 Version | 📅 Released |
 |---|---|---|---|
-| apigen-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-skills?style=for-the-badge&color=orange) | 13-08-2026 |
-| openapi2soapui-skills | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui-skills?style=for-the-badge&color=orange) | 26-08-2026 |
-| sonaropenapi-rules | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) | 10-09-2026 |
-| apiaddicts-style-guide-spectral | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apiaddicts-style-guide-spectral?style=for-the-badge&color=orange) | 10-09-2026 |
-| openapi2postman | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman?style=for-the-badge&color=orange) | 10-09-2026 |
-| openapi2soapui | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui?style=for-the-badge&color=orange) | 16-09-2026 |
-| SonarAsyncapiRules | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonarasyncapi-rules?style=for-the-badge&color=orange) | 21-09-2026 |
-| SpectralAsyncapiRules | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/spectral-rules-asyncapi?style=for-the-badge&color=orange) | 21-09-2026 |
-| AsyncapiCore | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonar-asyncapi?style=for-the-badge&color=orange) | 21-09-2026 |
+| [apigen-skills](https://github.com/apiaddicts/apigen-skills) | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apigen-skills?style=for-the-badge&color=orange) | 13-08-2026 |
+| [openapi2soapui-skills](https://github.com/apiaddicts/openapi2soapui-skills) | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui-skills?style=for-the-badge&color=orange) | 26-08-2026 |
+| [sonaropenapi-rules](https://github.com/apiaddicts/sonaropenapi-rules) | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonaropenapi-rules?style=for-the-badge&color=orange) | 10-09-2026 |
+| [apiaddicts-style-guide-spectral](https://github.com/apiaddicts/apiaddicts-style-guide-spectral) | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/apiaddicts-style-guide-spectral?style=for-the-badge&color=orange) | 10-09-2026 |
+| [openapi2postman](https://github.com/apiaddicts/openapi2postman) | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman?style=for-the-badge&color=orange) | 10-09-2026 |
+| [openapi2soapui](https://github.com/apiaddicts/openapi2soapui) | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2soapui?style=for-the-badge&color=orange) | 16-09-2026 |
+| [SonarAsyncapiRules](https://github.com/apiaddicts/sonarasyncapi-rules) | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonarasyncapi-rules?style=for-the-badge&color=orange) | 21-09-2026 |
+| [SpectralAsyncapiRules](https://github.com/apiaddicts/spectral-rules-asyncapi) | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/spectral-rules-asyncapi?style=for-the-badge&color=orange) | 21-09-2026 |
+| [AsyncapiCore](https://github.com/apiaddicts/sonar-asyncapi) | Update | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/sonar-asyncapi?style=for-the-badge&color=orange) | 21-09-2026 |
+| [openapi2postman-skills](https://github.com/apiaddicts/openapi2postman-skills) | New proyect | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/apiaddicts/openapi2postman-skills?style=for-the-badge&color=orange) | 22-09-2026 |
 
 ## Roadmap
 The next releases are:
