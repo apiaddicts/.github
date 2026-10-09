@@ -68,6 +68,7 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 |---|---|---|
   | [apigen-skills](https://github.com/apiaddicts/apigen-skills)  | Skills to generate projects from [apigen.net](https://github.com/apiaddicts/apigen.net) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
   | [openapi2soapui-skills](https://github.com/apiaddicts/openapi2soapui-skills)  | Skills to generate contract tests from [openapi2soapui](https://github.com/apiaddicts/openapi2soapui) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
+    | [openapi2postman-skills](https://github.com/apiaddicts/openapi2postman-skills)  | Skills to generate contract tests from [openapi2postman]([https://github.com/apiaddicts/openapi2soapui](https://github.com/apiaddicts/openapi2postman)) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
 
 ## Last releases
 The last release are:
