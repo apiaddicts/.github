@@ -24,6 +24,21 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/apiaddicts)
 
+  # 🛠️ Skills
+| 🎁 Tool  | 📚 Description | 🤖 Technology |
+|---|---|---|
+  | [apigen-skills](https://github.com/apiaddicts/apigen-skills)  | Skills to generate projects from [apigen.net](https://github.com/apiaddicts/apigen.net) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
+  | [openapi2soapui-skills](https://github.com/apiaddicts/openapi2soapui-skills)  | Skills to generate contract tests from [openapi2soapui](https://github.com/apiaddicts/openapi2soapui) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
+   | [openapi2postman-skills](https://github.com/apiaddicts/openapi2postman-skills)  | Skills to generate contract tests from [openapi2postman](https://github.com/apiaddicts/openapi2postman) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
+
+   # 🛠️ Style guides
+
+   | 🎁 Tool  | 📚 Description | 🤖 Technology |
+|---|---|---|
+| [spectral-openpi-rules](https://github.com/apiaddicts/apiaddicts-style-guide-spectral)  | Spectral guide with apiaddicts recommended rules for openapi | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
+| [spectral-asyncapi-rules](https://github.com/apiaddicts/spectral-rules-asyncapi)| Spectral guide with apiaddicts recommended rules  for asyncapi| [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
+
+
 # 🛠️ Code Generators
 
    | 🎁 Tool  | 📚 Description | 🤖 Technology |
@@ -36,12 +51,6 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | [apigen-springboot-cli](https://github.com/apiaddicts/apigen-springboot-cli)  | CLI for using the apigen tool in Spring Boot projects | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
 
 
-# 🛠️ Style guides
-
-   | 🎁 Tool  | 📚 Description | 🤖 Technology |
-|---|---|---|
-| [spectral-openpi-rules](https://github.com/apiaddicts/apiaddicts-style-guide-spectral)  | Spectral guide with apiaddicts recommended rules for openapi | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
-| [spectral-asyncapi-rules](https://github.com/apiaddicts/spectral-rules-asyncapi)| Spectral guide with apiaddicts recommended rules  for asyncapi| [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
 
 
 # 🛠️ Tests generators
@@ -63,12 +72,7 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 | [api-mcp-market-front](https://github.com/apiaddicts/apiportal-front)  | API & MCP & Data Services (Gaiax) Market front |![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 | [api-mcp-market-cms](https://github.com/apiaddicts/apiportal-cms)  | CMS for apimcp-market (strapi.io)  | ![js](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white) |
 
-  # 🛠️ Skills
-| 🎁 Tool  | 📚 Description | 🤖 Technology |
-|---|---|---|
-  | [apigen-skills](https://github.com/apiaddicts/apigen-skills)  | Skills to generate projects from [apigen.net](https://github.com/apiaddicts/apigen.net) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
-  | [openapi2soapui-skills](https://github.com/apiaddicts/openapi2soapui-skills)  | Skills to generate contract tests from [openapi2soapui](https://github.com/apiaddicts/openapi2soapui) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
-    | [openapi2postman-skills](https://github.com/apiaddicts/openapi2postman-skills)  | Skills to generate contract tests from [openapi2postman]([https://github.com/apiaddicts/openapi2soapui](https://github.com/apiaddicts/openapi2postman)) using OpenAPI| ![js](https://img.shields.io/badge/markdown-083FA1.svg?style=flat&logo=markdown&logoColor=white) |
+
 
 ## Last releases
 The last release are:
