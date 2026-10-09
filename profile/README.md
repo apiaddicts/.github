@@ -37,6 +37,7 @@ Feel free to drop by and greet us on our GitHub discussion or Discord chat. You 
 |---|---|---|
 | [spectral-openpi-rules](https://github.com/apiaddicts/apiaddicts-style-guide-spectral)  | Spectral guide with apiaddicts recommended rules for openapi | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
 | [spectral-asyncapi-rules](https://github.com/apiaddicts/spectral-rules-asyncapi)| Spectral guide with apiaddicts recommended rules  for asyncapi| [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
+| [spectral-mcp-rules](https://github.com/apiaddicts/mcps-style-guide)| Spectral guide with apiaddicts recommended rules  for mcps| [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) |
 
 
 # 🛠️ Code Generators
